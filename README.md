@@ -1,3 +1,9 @@
+**Решение**
+[![Build status](https://ci.appveyor.com/api/projects/status/fd4hk30ok9tlhwhe?svg=true)](https://ci.appveyor.com/project/lubavin01/ahj-env-hw-corrected)
+
+https://lubavin01.github.io/ahj_env_hw_corrected/
+
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ---
