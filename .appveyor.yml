@@ -5,10 +5,10 @@ branches:
     - master #веткаgit
 cache: node_modules #кеширование
 install:
-  - yarn #командаустановкизависимостей
+  - yarn install #командаустановкизависимостей
 build: off
 build_script:
-  - yarn build #командасборки
+  - yarn run build #командасборки
 test_script:
   - yarn lint && yarn run test #скрипттестирования
 deploy_script: #скриптразвёртывания
